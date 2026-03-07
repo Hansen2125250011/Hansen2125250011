@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+```javascript
 const hansen = {
   pronouns: "He" | "Him",
   code: ["Java", "Python", "JavaScript", "PHP", "C#", "HTML", "CSS"],
@@ -43,21 +43,5 @@ const hansen = {
   currentFocus: "Building scalable web applications",
   funFact: "I can turn coffee into code! ☕💻"
 };
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hansen2125250011&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hansen2125250011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hansen2125250011&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Hansen2125250011&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
