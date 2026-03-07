@@ -1,33 +1,34 @@
-<!-- Header Animasi -->
+<!-- Header Animasi - Snowy gradient (biru es ke putih/abu) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20I'm%20Hansen%20👋&animation=fadeIn&type=waving&color=0:667eea,100:764ba2&height=150&fontSize=40&fontAlignY=35&desc=Fresh%20Graduate%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20I'm%20Hansen%20👋&animation=fadeIn&type=waving&color=0:89d4cf,100:e0f7fa&height=150&fontSize=40&fontAlignY=35&desc=Fresh%20Graduate%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header Snowy"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation - Warna biru es -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Fresh%20Graduate;Full%20Stack%20Developer;Machine%20Learning%20Enthusiast;Laravel%20|%20.NET%20|%20Python;Open%20to%20Work!;Welcome%20to%20my%20profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=a5d8ff&center=true&vCenter=true&width=80%&lines=Fresh%20Graduate;Full%20Stack%20Developer;Machine%20Learning%20Enthusiast;Laravel%20|%20.NET%20|%20Python;Open%20to%20Work!;Welcome%20to%20my%20profile!+❄️" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hansen-0b085727a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hansentan02193@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Hansen2125250011" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 ```js
 const hansen = {
