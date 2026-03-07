@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-```javascript
+```js
 const hansen = {
   status: "Fresh Graduate 🎓",
   lookingFor: "Full-time Opportunities",
@@ -44,7 +44,7 @@ const hansen = {
   currentFocus: "Seeking my first professional role",
   funFact: "I can turn coffee into code! ☕💻"
 };
-
+```
 🎓 Fresh Graduate in Computer Science/Informatics
  
 🔭 Currently working on Personal Projects & Portfolio
