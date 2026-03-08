@@ -30,22 +30,19 @@
 
 
 
-```js
-const hansen = {
-  status: "Fresh Graduate 🎓",
-  lookingFor: "Full-time Opportunities",
-  code: ["Java", "Python", "JavaScript", "PHP", "C#", "HTML", "CSS"],
-  technologies: {
-    backEnd: ["Laravel", ".NET", "Node.js"],
-    frontEnd: ["HTML5", "CSS3", "JavaScript"],
-    databases: ["MySQL", "SQL Server", "SQLite", "Firebase"],
-    tools: ["Git", "GitHub", "Figma", "Canva"],
-    ai_ml: ["PyTorch", "scikit-learn", "NumPy", "Pandas", "Matplotlib"]
-  },
-  currentFocus: "Seeking my first professional role",
-  funFact: "I can turn coffee into code! ☕💻"
-};
-```
+## About Me
+
+**Nama:** Hansen  
+**Status:** Fresh Graduate  
+**Mencari:** Full-time opportunities  
+**Bahasa & Teknologi yang dikuasai:**  
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Java, Python, PHP, C#, .NET, Node.js, Laravel  
+- Database: MySQL, SQL Server, SQLite, Firebase  
+- AI/ML: PyTorch, scikit-learn, NumPy, Pandas, Matplotlib  
+**Fokus saat ini:** Mencari peran profesional pertama  
+**Fun fact:** Saya bisa mengubah kopi menjadi kode ☕→💻
+  
 🎓 Fresh Graduate in Computer Science/Informatics
  
 🔭 Currently working on Personal Projects & Portfolio
@@ -107,10 +104,6 @@ const hansen = {
 </p>
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hansen2125250011&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" />
-</p>
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ✨ Random Dev Quote
