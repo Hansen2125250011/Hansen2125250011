@@ -66,6 +66,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hansen2125250011&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</p>
+
 <!-- Footer - Warna disamakan dengan header: biru es ke putih/abu -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89d4cf,100:e0f7fa&height=120&section=footer&animation=fadeIn" alt="Footer Waving"/>
