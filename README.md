@@ -60,16 +60,17 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
-
-<p align="center>
-  ![](https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Hansen2125250011&theme=blueberry&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-  
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hansen2125250011&icon=6&color=89d4cf" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <!-- Footer - Warna disamakan dengan header: biru es ke putih/abu -->
@@ -80,4 +81,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-89d4cf?style=for-the-badge" alt="Made with love"/>
   <img src="https://img.shields.io/badge/By-Hansen-e0f7fa?style=for-the-badge" alt="By Hansen"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Hansen2125250011&label=Profile%20Views&labelColor=%2389d4cf&countColor=%23e0f7fa&style=flat&color=%23000000" alt="Profile Views"/>
 </p>
