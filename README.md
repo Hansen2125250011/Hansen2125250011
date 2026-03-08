@@ -1,4 +1,4 @@
-<!-- Header Animasi - Tema snowy gradient (biru es ke putih/abu) -->
+<!-- Header Animasi - Snowy gradient (biru es ke putih/abu) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!%20I'm%20Hansen%20👋&animation=fadeIn&type=waving&color=0:89d4cf,100:e0f7fa&height=150&fontSize=40&fontAlignY=35&desc=Fresh%20Graduate%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header Snowy"/>
 </p>
@@ -13,19 +13,15 @@
 🎓 Fresh Graduate in Computer Science / Informatics Engineering  
 🔭 Currently building personal projects & strengthening my portfolio  
 👯 Open to collaboration on open-source projects  
-💼 Seeking **full-time**, **internship**, or **freelance** opportunities  
+💼 Seeking full-time, internship, or freelance opportunities  
 💬 Feel free to ask about Laravel, Python, .NET, web development, or machine learning basics  
 📫 Reach me: [hansentan02193@gmail.com](mailto:hansentan02193@gmail.com)
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hansen-0b085727a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hansentan02193@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://linkedin.com/in/hansen-0b085727a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hansentan02193@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 # 💻 Tech Stack
@@ -45,7 +41,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
@@ -65,44 +60,30 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### Design & Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
-
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Hansen2125250011&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Contributed"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hansen2125250011&icon=6&color=0" alt="Profile Views"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-667eea?style=for-the-badge" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/By-Hansen-764ba2?style=for-the-badge" alt="By Hansen"/>
+  <img src="https://visitcount.itsvg.in/api?id=Hansen2125250011&icon=6&color=89d4cf" alt="Profile Views"/>
+</p>
+
+<!-- Footer - Warna disamakan dengan header: biru es ke putih/abu -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89d4cf,100:e0f7fa&height=120&section=footer&animation=fadeIn" alt="Footer Waving"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-89d4cf?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/By-Hansen-e0f7fa?style=for-the-badge" alt="By Hansen"/>
 </p>
