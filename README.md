@@ -5,7 +5,7 @@
 
 <!-- Typing Animation - Warna biru es -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=a5d8ff&center=true&vCenter=true&width=100%&lines=Fresh%20Graduate;Full%20Stack%20Developer;Machine%20Learning%20Enthusiast;Laravel%20|%20.NET%20|%20Python;Open%20to%20Work!;Welcome%20to%20my%20profile!+❄️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=a5d8ff&center=true&vCenter=true&width=600&lines=Fresh%20Graduate;Full%20Stack%20Developer;Machine%20Learning%20Enthusiast;Laravel%20|%20.NET%20|%20Python;Open%20to%20Work!;Welcome%20to%20my%20profile!+❄️" alt="Typing SVG" />
 </p>
 
 # 💫 About Me
