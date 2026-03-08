@@ -62,15 +62,12 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
+<!-- Jika streak masih akurat (karena lebih sederhana), pertahankan; jika tidak, hapus -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <!-- Footer - Warna disamakan dengan header: biru es ke putih/abu -->
