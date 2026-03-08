@@ -78,5 +78,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-89d4cf?style=for-the-badge" alt="Made with love"/>
   <img src="https://img.shields.io/badge/By-Hansen-e0f7fa?style=for-the-badge" alt="By Hansen"/>
-  <img src="https://img.shields.io/badge/Profile%20Views-visitor-e0f7fa?style=for-the-badge&logo=github" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hansen2125250011&style=for-the-badge&color=89d4cf" />
 </p>
