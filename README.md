@@ -62,7 +62,10 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&layout=compact&langs_count=8&theme=blueberry&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <!-- Jika streak masih akurat (karena lebih sederhana), pertahankan; jika tidak, hapus -->
