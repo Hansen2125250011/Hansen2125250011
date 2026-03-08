@@ -78,5 +78,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-89d4cf?style=for-the-badge" alt="Made with love"/>
   <img src="https://img.shields.io/badge/By-Hansen-e0f7fa?style=for-the-badge" alt="By Hansen"/>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Hansen2125250011&label=Profile%20Views&labelColor=%2389d4cf&countColor=%23e0f7fa&style=flat&color=%23000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-visitor-e0f7fa?style=for-the-badge&logo=github" alt="Profile Views"/>
 </p>
