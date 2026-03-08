@@ -60,19 +60,14 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hansen2125250011&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hansen2125250011&theme=blueberry&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hansen2125250011&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&theme=blueberry&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Hansen2125250011&icon=6&color=89d4cf" alt="Profile Views"/>
