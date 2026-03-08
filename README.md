@@ -61,13 +61,6 @@
 </p>
 
 # 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&layout=compact&langs_count=8&theme=blueberry&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 <!-- Jika streak masih akurat (karena lebih sederhana), pertahankan; jika tidak, hapus -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
