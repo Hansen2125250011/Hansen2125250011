@@ -66,7 +66,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=blueberry&hide_border=false" alt="GitHub Streak"/>
 </p>
 
+<!-- Top Languages Card -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
 <!-- Footer - Warna disamakan dengan header: biru es ke putih/abu -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89d4cf,100:e0f7fa&height=120&section=footer&animation=fadeIn" alt="Footer Waving"/>
 </p>
