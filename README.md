@@ -150,7 +150,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Hansen2125250011&theme=tokyonight&hide_border=true&fire=74C7EC&sideLabels=CDD6F4&ring=74C7EC&currStreakLabel=74C7EC"
+    src="https://streak-stats.demolab.com/?user=Hansen2125250011&theme=tokyonight&hide_border=true&fire=74C7EC&sideLabels=CDD6F4&ring=74C7EC&currStreakLabel=74C7EC"
     alt="GitHub Streak"
   />
 </p>
