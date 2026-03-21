@@ -2,8 +2,7 @@
 <!--                          HEADER                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Hansen!
-  desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Work&descAlignY=58&descSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%2C%20I'm%20Hansen!%20%F0%9F%91%8B&fontSize=52&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Work&descAlignY=58&descSize=18&fontColor=ffffff" />
 </p>
 
 <!-- Typing Animation -->
