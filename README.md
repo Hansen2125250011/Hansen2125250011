@@ -141,14 +141,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansen2125250011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com/?user=Hansen2125250011&theme=tokyonight&hide_border=true&fire=74C7EC&sideLabels=CDD6F4&ring=74C7EC&currStreakLabel=74C7EC"
     alt="GitHub Streak"
   />
